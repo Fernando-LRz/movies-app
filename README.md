@@ -27,7 +27,7 @@ npm install
 ```
 
 ## Configuration
-An api key from TheMovieDB API is required and must be set in the movieDB.tsx file, located at: src/api.
+An api key from TheMovieDB is required and must be set in the movieDB.tsx file, located at: src/api.
 
 ## Run the app
 ```bash
