@@ -9,7 +9,7 @@ Movie info app built with React Native.
  
    - The movie genders
    - The movie rating
-   - A movie overview
+   - The movie overview
    - The movie cast
  
 ## Installation
