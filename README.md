@@ -21,7 +21,7 @@ git clone https://github.com/Fernando-LRz/RN-Movies.git
 ```bash
 cd RN-Movies
 ```
-3. Install the packages
+3. Install dependencies
 ```bash
 npm install
 ```
