@@ -7,10 +7,10 @@ Movie info app built with React Native.
  * Show upcoming movies
  * Show info of each movie, such as: 
  
-   - The movie genders
-   - The movie rating
-   - The movie overview
-   - The movie cast
+   - The genders
+   - The rating
+   - The overview
+   - The cast
  
 ## Installation
 1. Clone the repository
