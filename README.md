@@ -35,7 +35,7 @@ npx react-native run-android
 ```
 
 ## App images
-| Home screen                                                 | Sections                                                           |
+| Home                                                        | Sections                                                           |
 | ----------------------------------------------------------- | ------------------------------------------------------------------ |
 | <img src="images/home.png" width="235" height="485"/>       | <img src="images/sections.png" width="235" height="485"/>          |
 
