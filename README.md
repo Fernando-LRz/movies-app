@@ -1,25 +1,25 @@
-# RN-Movies
+# Movies-app
 Movie info app built with React Native.
 
 ## Features
- * Show the most popular movies right now
- * Show top rated movies
- * Show upcoming movies
- * Show info of each movie, such as: 
+ * Display the most popular movies right now
+ * Display top rated movies
+ * Display upcoming movies
+ * Display information for each movie, such as:
  
-   - The genders
-   - The rating
-   - The overview
-   - The cast
+   - Genders
+   - Rating
+   - Overview
+   - Cast
  
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/Fernando-LRz/RN-Movies.git
+git clone https://github.com/Fernando-LRz/movies-app.git
 ``` 
-2. Go inside the project folder
+2. Navigate to the project directory
 ```bash
-cd RN-Movies
+cd movies-app
 ```
 3. Install dependencies
 ```bash
@@ -27,7 +27,7 @@ npm install
 ```
 
 ## Configuration
-An api key from TheMovieDB is required and must be set in the movieDB.tsx file, located at: src/api.
+An API key from TheMovieDB is required and must be added to a .env file. There is a sample .env file in the project.
 
 ## Run the app
 ```bash
