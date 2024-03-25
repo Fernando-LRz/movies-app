@@ -2,16 +2,15 @@
 Movie info app built with React Native.
 
 ## Features
- * Display the most popular movies right now
- * Display top rated movies
- * Display upcoming movies
- * Display information for each movie, such as:
- 
-   - Genders
-   - Rating
-   - Overview
-   - Cast
- 
+* Show information for each movie, such as:
+   - Genres.
+   - Rating.
+   - Overview.
+   - Cast.
+* Show the most popular movies right now.
+* Show top-rated movies.
+* Show upcoming movies.
+   
 ## Installation
 1. Clone the repository
 ```bash
